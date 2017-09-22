@@ -1,1 +1,6 @@
-# meetup-2017-09-07
+# TechAtAgoda #14 : React Fundamentals (Workshop)
+Agenda
+
+### Workshop
+* Video Recording https://youtu.be/i-VkuE4lGog
+* React Fundamentals.pptx
